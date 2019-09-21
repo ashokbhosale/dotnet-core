@@ -1,0 +1,11 @@
+C:\ashok b\MyWork\C#Concept\C-Concept\DotnetCore\BookStore\src\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.deps.json
+C:\ashok b\MyWork\C#Concept\C-Concept\DotnetCore\BookStore\src\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.runtimeconfig.json
+C:\ashok b\MyWork\C#Concept\C-Concept\DotnetCore\BookStore\src\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.runtimeconfig.dev.json
+C:\ashok b\MyWork\C#Concept\C-Concept\DotnetCore\BookStore\src\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.dll
+C:\ashok b\MyWork\C#Concept\C-Concept\DotnetCore\BookStore\src\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.pdb
+C:\ashok b\MyWork\C#Concept\C-Concept\DotnetCore\BookStore\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.csprojAssemblyReference.cache
+C:\ashok b\MyWork\C#Concept\C-Concept\DotnetCore\BookStore\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.csproj.CoreCompileInputs.cache
+C:\ashok b\MyWork\C#Concept\C-Concept\DotnetCore\BookStore\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.AssemblyInfoInputs.cache
+C:\ashok b\MyWork\C#Concept\C-Concept\DotnetCore\BookStore\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.AssemblyInfo.cs
+C:\ashok b\MyWork\C#Concept\C-Concept\DotnetCore\BookStore\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.dll
+C:\ashok b\MyWork\C#Concept\C-Concept\DotnetCore\BookStore\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.pdb

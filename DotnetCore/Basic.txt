@@ -1,0 +1,6 @@
+1. install vs code
+2. Install .net core 2.0
+3. install .net compiler
+4. dotnet  new console
+5. write code and compile with dotnet build
+6. run code with dotnet 

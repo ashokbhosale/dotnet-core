@@ -1,0 +1,17 @@
+C:\ashok b\MyWork\C#Concept\C-Concept\DotnetCore\BookStore\test\GradeBook.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\ashok b\MyWork\C#Concept\C-Concept\DotnetCore\BookStore\test\GradeBook.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\ashok b\MyWork\C#Concept\C-Concept\DotnetCore\BookStore\test\GradeBook.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\ashok b\MyWork\C#Concept\C-Concept\DotnetCore\BookStore\test\GradeBook.Tests\bin\Debug\netcoreapp2.2\GradeBook.Tests.deps.json
+C:\ashok b\MyWork\C#Concept\C-Concept\DotnetCore\BookStore\test\GradeBook.Tests\bin\Debug\netcoreapp2.2\GradeBook.Tests.runtimeconfig.json
+C:\ashok b\MyWork\C#Concept\C-Concept\DotnetCore\BookStore\test\GradeBook.Tests\bin\Debug\netcoreapp2.2\GradeBook.Tests.runtimeconfig.dev.json
+C:\ashok b\MyWork\C#Concept\C-Concept\DotnetCore\BookStore\test\GradeBook.Tests\bin\Debug\netcoreapp2.2\GradeBook.Tests.dll
+C:\ashok b\MyWork\C#Concept\C-Concept\DotnetCore\BookStore\test\GradeBook.Tests\bin\Debug\netcoreapp2.2\GradeBook.Tests.pdb
+C:\ashok b\MyWork\C#Concept\C-Concept\DotnetCore\BookStore\test\GradeBook.Tests\obj\Debug\netcoreapp2.2\GradeBook.Tests.csprojAssemblyReference.cache
+C:\ashok b\MyWork\C#Concept\C-Concept\DotnetCore\BookStore\test\GradeBook.Tests\obj\Debug\netcoreapp2.2\GradeBook.Tests.csproj.CoreCompileInputs.cache
+C:\ashok b\MyWork\C#Concept\C-Concept\DotnetCore\BookStore\test\GradeBook.Tests\obj\Debug\netcoreapp2.2\GradeBook.Tests.AssemblyInfoInputs.cache
+C:\ashok b\MyWork\C#Concept\C-Concept\DotnetCore\BookStore\test\GradeBook.Tests\obj\Debug\netcoreapp2.2\GradeBook.Tests.AssemblyInfo.cs
+C:\ashok b\MyWork\C#Concept\C-Concept\DotnetCore\BookStore\test\GradeBook.Tests\obj\Debug\netcoreapp2.2\GradeBook.Tests.dll
+C:\ashok b\MyWork\C#Concept\C-Concept\DotnetCore\BookStore\test\GradeBook.Tests\obj\Debug\netcoreapp2.2\GradeBook.Tests.pdb
+C:\ashok b\MyWork\C#Concept\C-Concept\DotnetCore\BookStore\test\GradeBook.Tests\bin\Debug\netcoreapp2.2\GradeBook.dll
+C:\ashok b\MyWork\C#Concept\C-Concept\DotnetCore\BookStore\test\GradeBook.Tests\bin\Debug\netcoreapp2.2\GradeBook.pdb
+C:\ashok b\MyWork\C#Concept\C-Concept\DotnetCore\BookStore\test\GradeBook.Tests\obj\Debug\netcoreapp2.2\GradeBook.Tests.csproj.CopyComplete
