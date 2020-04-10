@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApplication1</name>
+    </assembly>
+    <members>
+        <member name="T:WebApplication1.Controllers.OTConnect.OTController">
+            <summary>
+            OT Connect
+            </summary>
+        </member>
+        <member name="M:WebApplication1.Controllers.OTConnect.OTController.Get(System.Int32)">
+            <summary>
+            OT Connect Get Methods
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
